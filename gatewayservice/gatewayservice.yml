@@ -1,7 +1,7 @@
 zuul.ignored-services: "*"
 zuul.prefix:  /api
-zuul.routes.patientservice: /patient/**
-zuul.routes.carehomeservice: /care-home/**
+zuul.routes.patientservice: /patients/**
+zuul.routes.carehomeservice: /care-homes/**
 #zuul.routes.authenticationservice: /auth/**
 #zuul.routes.licensestatic.path: /licensestatic/**
 #zuul.routes.licensestatic.url:  http://licenseservice-static:8081
