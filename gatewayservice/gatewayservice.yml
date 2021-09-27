@@ -5,6 +5,7 @@ zuul.routes.carehomeservice: /care-homes/**
 zuul.routes.bandageservice: /bandageservice/**
 zuul.routes.emailservice: /emailservice/**
 zuul.routes.bloodsugarservice: /bloodsugarservice/**
+zuul.routes.careprocessservice: /careprocessservice/**
 #zuul.routes.authenticationservice: /auth/**
 #zuul.routes.licensestatic.path: /licensestatic/**
 #zuul.routes.licensestatic.url:  http://licenseservice-static:8081
