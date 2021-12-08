@@ -4,7 +4,7 @@ zuul.routes.patientservice: /patients/**
 zuul.routes.carehomeservice: /care-homes/**
 zuul.routes.bandageservice: /bandageservice/**
 zuul.routes.emailservice: /emailservice/**
-zuul.routes.bloodsugarservice: /bloodsugarservice/**
+zuul.routes.reportingservice: /reportingservice/**
 zuul.routes.careprocessservice: /careprocessservice/**
 #zuul.routes.authenticationservice: /auth/**
 #zuul.routes.licensestatic.path: /licensestatic/**
